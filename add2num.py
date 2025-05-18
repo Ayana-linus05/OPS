@@ -7,3 +7,5 @@ sum = num1 + num2
 
 # Output: Display the result
 print("The sum of", num1, "and", num2, "is:", sum)
+print ("The sum of", num1, "and", num2, "is:", sum)
+
