@@ -5,6 +5,7 @@ num3 = float(input("Enter the second number: "))
 
 # Add the numbers
 sum = num1 + num2 + num3
+hello
 
 # Output: Display the result
 print("The sum of", num1, "and", num2, "and", num3 "is:", sum)
